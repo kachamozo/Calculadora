@@ -1,5 +1,5 @@
 import './App.css'
-import logo from './images/react.png'
+import logo from './images/atomo-png-7-Transparent-Images.png'
 import Boton from './components/Boton'
 import Pantalla from './components/Pantalla'
 import BotonClear from './components/BotonClear'
